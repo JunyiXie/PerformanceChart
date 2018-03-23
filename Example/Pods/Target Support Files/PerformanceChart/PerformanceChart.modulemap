@@ -1,0 +1,6 @@
+framework module PerformanceChart {
+  umbrella header "PerformanceChart-umbrella.h"
+
+  export *
+  module * { export * }
+}

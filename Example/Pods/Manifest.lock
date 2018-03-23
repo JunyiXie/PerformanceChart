@@ -1,0 +1,19 @@
+PODS:
+  - Kiwi (3.0.0)
+  - PerformanceChart (0.1.0)
+
+DEPENDENCIES:
+  - Kiwi
+  - PerformanceChart (from `../`)
+
+EXTERNAL SOURCES:
+  PerformanceChart:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Kiwi: fbeafef0f00e4d8f7dcb3420a4930afe70af77f7
+  PerformanceChart: ad7605815cac19e362b364ee403f68ac54f23a25
+
+PODFILE CHECKSUM: 71eb4d1b59d4d74faa62e8cbe6a34457467b5852
+
+COCOAPODS: 1.4.0
